@@ -1,58 +1,118 @@
-Bonjour ! 
-Je suis Mathis, étudiant en deuxième année de Bachelor Concepteur Développeur d’Applications Numériques à l’IPI de Toulouse. Passionné par la création, l’apprentissage et le développement, j’aime donner vie à des projets techniques allant du développement web à la programmation logicielle.
+<h1 align="center">Salut 👋, moi c’est Mathis</h1>
+<h3 align="center">Étudiant en Bachelor Concepteur Développeur d’Applications Numériques</h3>
 
-🎯 Je travaille principalement en :
+<p align="center">
+📍 Toulouse • 💻 Développement Web & Logiciel • 🚀 Passionné de création
+</p>
 
-HTML / CSS / JavaScript
+---
 
-Python
+## 👨‍💻 À propos de moi
 
-Java
+Je suis **Mathis**, étudiant en **2ᵉ année de Bachelor Concepteur Développeur d’Applications Numériques** à l’**IPI de Toulouse**.  
+Passionné par la **création**, l’**apprentissage** et le **développement**, j’aime donner vie à des projets techniques allant du **développement web** à la **programmation logicielle**.
 
-PHP / MySQL
+Sur mon GitHub, tu trouveras :
+- 📚 des travaux académiques  
+- 🌐 des projets web  
+- 🗄️ des bases de données  
+- 🧪 des expérimentations personnelles  
 
-C / C++
+---
 
-TypeScript & Angular
+## 🎯 Languages & Tools
 
-💻 Sur mon GitHub, tu trouveras notamment des travaux académiques, des projets web, des bases de données, ainsi que des expérimentations personnelles autour de la construction et de la programmation
+<p align="left">
+  <!-- Frontend -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  </a>
 
-CV Mathis Flan
+  <!-- Frameworks -->
+  <a href="https://angular.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  </a>
 
-.
+  <!-- Backend -->
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  </a>
 
-🔧 Expériences & projets
+  <!-- Low-level -->
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  </a>
 
-Développement d’un site web en PHP connecté à une base MySQL
+  <!-- Database -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  </a>
 
-Programmation d’un drone en Python
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40"/>
+  </a>
+</p>
 
-Création d’une base de données MySQL (tables, liens, requêtes)
+---
 
-Stage de développement chez Inetum : tests et développement sur des applications SIRH en Java
+## 🔧 Expériences & projets
 
-CV Mathis Flan
+- 🌐 Développement d’un **site web en PHP** connecté à une base **MySQL**
+- 🤖 Programmation d’un **drone en Python**
+- 🗄️ Création d’une **base de données MySQL** (tables, relations, requêtes)
+- 🏢 **Stage chez Inetum**  
+  → Tests et développement sur des applications **SIRH en Java**
 
-🌱 Qualités et centres d’intérêt
+---
 
-Je suis quelqu’un d’altruiste, de pédagogue et de persévérant. En dehors de l’informatique, je pratique la magie, les échecs, le sport (boxe, escalade) et j’adore concevoir des choses, que ce soit des programmes, des jeux… ou même des Lego !
+## 🌱 Qualités & centres d’intérêt
 
-CV Mathis Flan
+- 🤝 Altruiste  
+- 📖 Pédagogue  
+- 💪 Persévérant  
 
-📫 Me contacter
+En dehors du développement :
+- 🎩 Magie  
+- ♟️ Échecs  
+- 🥊 Boxe & 🧗 Escalade  
+- 🧱 Création (programmes, jeux… et Lego)
 
-📍 Toulouse 📧 mathisflan31@gmail.com
+---
 
-🔗 LinkedIn : Mathis FLAN✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Me contacter
 
-Here are some ideas to get you started:
+- 📍 **Toulouse**
+- 📧 **Email** : mathis.flan@edu.igensia.com  
+- 🔗 **LinkedIn** : https://www.linkedin.com/in/mathis-flan/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐ *N’hésite pas à parcouri*
